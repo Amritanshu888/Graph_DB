@@ -1,0 +1,10 @@
+neo4j==5.14  ## If u face any error better install the latest version of Neo4j itself.
+langchain
+langchain_community
+langchain_openai
+langchain_groq ## Open Source LLM Models --> Groq allows us to use different different open source LLM models.
+python-dotenv
+ipykernel
+
+## Note:
+## Keep the downloaded txt file info abt ur entire Neo4j file. ---> U will get to download this when u will create ur new instance in ur neo4j auradb
